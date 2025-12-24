@@ -50,4 +50,4 @@ The trained model achieves an accuracy of over 90%-95% on the validation dataset
 
 
 ## Author
-@MeetJani0
+@Sunidhi-Thakur-Tech
